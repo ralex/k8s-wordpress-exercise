@@ -2,6 +2,7 @@
 # Prerequisites
 
 * [Minikube](https://github.com/ralex/salt-laptop/tree/master/minikube)
+* Terraform
 * Helm
 
 # Install project
