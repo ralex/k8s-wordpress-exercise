@@ -1,10 +1,10 @@
 
 # Prerequisites
 
-* [Minikube|https://github.com/ralex/salt-laptop/tree/master/minikube]
+* [Minikube](https://github.com/ralex/salt-laptop/tree/master/minikube)
 * Helm
 
-# Install project
+# Install project
 
 ```
 terraform init
